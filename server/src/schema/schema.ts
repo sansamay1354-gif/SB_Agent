@@ -1,0 +1,1 @@
+<content of server/src/schema/schema.ts>

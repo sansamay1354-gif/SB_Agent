@@ -1,0 +1,1 @@
+<content of server/src/migrations/readme.md>
